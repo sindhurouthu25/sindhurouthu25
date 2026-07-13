@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sindhu Routhu</h1>
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="YOUR_TYPING_SVG_LINK_HERE" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?..." alt="Typing SVG" />
 </p>
 <h3 align="center">
 🎓 B.Tech CSE Student <br>
