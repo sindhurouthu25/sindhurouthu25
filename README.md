@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sindhu Routhu</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&width=700&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Sindhu+Routhu;+B.Tech+CSE+Student;Python+Developer;DSA+Learner;MERN+Stack+Enthusiast;Open+to+Software+Engineering+Opportunities)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Sindhu+Routhu;+B.Tech+CSE+Student;Python+Developer;DSA+Learner;MERN+Stack+Enthusiast" alt="Typing SVG" /></a>
 <h3 align="center">
 🎓 B.Tech CSE Student <br>
 🐍 Python Developer <br>
