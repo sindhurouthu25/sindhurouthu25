@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sindhu Routhu</h1>
-<h3 align="center">A B.Tech CSE Student|Python Developer|DSA Learner|MERN Stack Enthusiast|Open to Software Engineering Opportunities</h3>
+<h3 align="center">
+🎓 B.Tech CSE Student <br>
+🐍 Python Developer <br>
+📚 DSA Learner <br>
+🌐 MERN Stack Enthusiast <br>
+💼 Open to Software Engineering Opportunities
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sindhurouthu25&label=Profile%20views&color=0e75b6&style=flat" alt="sindhurouthu25" /> </p>
 
