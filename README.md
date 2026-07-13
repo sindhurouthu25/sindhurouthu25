@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sindhu Routhu</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?..." 
+       alt="Typing SVG" />
 </p>
 <h3 align="center">
 🎓 B.Tech CSE Student <br>
