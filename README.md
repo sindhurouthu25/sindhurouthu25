@@ -36,11 +36,11 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/sindhu-rowthu-999437330/" target="_blank">
+<a href="https://www.linkedin.com/in/sindhu-rowthu-999437330/" target="_blank"  rel="noreferrer">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
 </a>
 
-<a href="https://github.com/sindhurouthu25" target="_blank">
+<a href="https://github.com/sindhurouthu25" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
 </a>
 
