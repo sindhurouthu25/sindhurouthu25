@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://raw.githubusercontent.com/sindhurouthu25/sindhurouthu25/74143ea57a1540639679e29bfcc150be243cf310/banner.png" alt="Github Banner" width="100%"/>
+</p>
 <h1 align="center">Hi 👋, I'm Sindhu Routhu</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
